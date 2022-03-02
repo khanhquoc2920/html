@@ -346,6 +346,7 @@ top:-15px;
     position: relative;
     background-image: url("/static/img/contact.jpg");
     background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 .content3 .col-md-4{
     padding: 40px;
